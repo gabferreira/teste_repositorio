@@ -7,3 +7,6 @@ maria <- rep(1:30)
 joao + maria
 
 library(parallel)
+
+
+# ITS WORKING
